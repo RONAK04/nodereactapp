@@ -1,4 +1,7 @@
-# Here I create one React.js Application. and Databse I created using Mongodb. and Connect Mongodb with my react.js Application. In this application i crated sone API those API look like this 
+First Extract Frontend and run command npm install and after this npm start
+second Extract Backend and run command npm install and after this npm start
+
+Here I create one React.js Application. and Databse I created using Mongodb. and Connect Mongodb with my react.js Application. In this application i crated sone API those API look like this 
 
 1)http://localhost:8000/first
 
